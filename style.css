@@ -1,0 +1,30 @@
+    .brand-logo{
+        width: 40px;
+        height: 51px;
+        margin-left: 10px;
+    }
+    .profile{
+    
+        width: 51px;
+        height: 51px;
+        left: 1100px;
+        top: 23px;
+        
+    }
+    body{
+        background-color: aliceblue;
+    }
+    .row img{
+        width: 56px;
+        height: 56px;
+        float: left;
+        padding: 3px;
+    }
+    main{
+        max-width: 870px;
+        max-height: 679px;
+        background-color: white;
+        position: relative center;
+        margin-left: 225px;
+
+    }
